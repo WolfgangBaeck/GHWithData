@@ -1,4 +1,4 @@
-name: Deploy website with js name
+name: Deploy website with cache
 on: workflow_dispatch
 jobs:
   test:
